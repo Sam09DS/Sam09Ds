@@ -13,4 +13,4 @@
 - 💬 Ask me about python and ML Algorithms related to data science
 - 📫 How to reach me: **https://www.linkedin.com/in/shashank-sharma-77302517b/**, mail:**shashank.sharma1996@outlook.com**, twitter:**@s_a_m_sharma**
 - ⚡ Fun fact: love to play with data 
---> # I know basics of Tableau 10 desktop and R programing as well
+ # I know basics of Tableau 10 desktop and R programing as well
