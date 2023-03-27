@@ -1,6 +1,6 @@
-# Hi there, I'm Shashank kumar 👋
+# Hi there, I'm Shashank Kumar 👋
 
-## Tech Civil Engineer seeking a career in Data Science field and trying to learn some new skills like business analytics , business statistic and data analytic and currently iam enrolled with simplilearn data science and AI Masters program from past 6 moths
+## A B.Tech graduate who identifies himself as a Tech enthusiast and desires to pursue a career in Software Engineering, management, and analysis. Currently looking for opportunities in Software-Testing roles to develop my analytical skills and problem-solving attributes by being part of a dedicated and motivated team
 
 **Sam09DS/Sam09Ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
